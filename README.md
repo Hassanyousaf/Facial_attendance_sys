@@ -1,0 +1,1 @@
+This is machine learning based facial recongnition attendance system. First images are captured to register a person. Once person is registered he/she is good to go for attendance by just showing face on cam. Attendance is saved in a csv file created automatically.
